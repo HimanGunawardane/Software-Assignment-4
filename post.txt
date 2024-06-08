@@ -1,0 +1,12 @@
+Title: Valid Title
+Body: This is a valid body with more than 250 characters. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Tags: [java, tutorial]
+Difficulty: Difficult
+Urgency: Highly Needed
+
+Title: Another Valid Title
+Body: This is another valid body with more than 250 characters. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Tags: [tag1, tag2]
+Difficulty: Difficult
+Urgency: Highly Needed
+
